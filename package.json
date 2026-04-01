@@ -1,0 +1,24 @@
+{
+  "name": "6-2-npm-node-hoosn4",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZnTlKcNR) # Node.js & npm Lab — CLI Calculator",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Web-Engineering-KFUPM/6-2-npm-node-Hoosn4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Web-Engineering-KFUPM/6-2-npm-node-Hoosn4/issues"
+  },
+  "homepage": "https://github.com/Web-Engineering-KFUPM/6-2-npm-node-Hoosn4#readme",
+  "dependencies": {
+    "lodash": "^4.17.23"
+  }
+}
